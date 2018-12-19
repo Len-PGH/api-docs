@@ -11,13 +11,8 @@ Welcome to API Docs's documentation!
    :caption: Contents:
 
 
+Welcome welcome, and welcome.
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
 Test
