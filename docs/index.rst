@@ -13,6 +13,9 @@ Welcome to API Docs's documentation!
 
 Welcome welcome, and welcome.
 
+.. image:: _images/techlacom-test.jpg
+        :scale: 85%
+
 
 
 Test
